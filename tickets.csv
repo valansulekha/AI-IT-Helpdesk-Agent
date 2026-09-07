@@ -1,0 +1,17 @@
+Ticket ID,Issue,Category,Confidence,Priority,Status,Created
+TKT-44359,I forgot my password and cannot login.,Account Issue,50.3%,Medium,Resolved,07-09-2026 08:58 PM
+TKT-57734,My Wi-Fi is not connecting to the internet.,Network Issue,37.6%,Medium,Open,07-09-2026 09:07 PM
+TKT-43150,The printer is not printing my document.,Printer Issue,37.9%,Medium,Open,07-09-2026 09:07 PM
+TKT-81486,my laptop is very slow and keep freezing,Performance Issue,38.4%,Low,Open,07-09-2026 09:30 PM
+TKT-17626,chatgpt is very slow,Performance Issue,45.6%,Low,Open,2026-09-07 21:51:49
+TKT-223523,My laptop is very slow and keeps freezing,Performance Issue,61.73%,Low,Open,2026-09-07 22:35:23
+TKT-223530,My Wi-Fi is not connecting,Network Issue,53.45%,Medium,Open,2026-09-07 22:35:30
+TKT-223538,I received a suspicious phishing email,Security Issue,71.78%,High,Open,2026-09-07 22:35:38
+TKT-224946,my laptop is very slow,Performance Issue,64.09%,Low,Open,2026-09-07 22:49:46
+TKT-230237,I received a suspicious phishing email,Security Issue,71.78%,High,Open,2026-09-07 23:02:37
+TKT-231731,my laptop is slow,Performance Issue,52.41%,Low,In Progress,2026-09-07 23:17:31
+TKT-233724,My Wi-Fi is not connecting to the internet,Network Issue,77.18%,Medium,Open,2026-09-07 23:37:24
+TKT-233812,"My laptop battery is not charging
+",Hardware Issue,63.57%,Medium,Open,2026-09-07 23:38:12
+TKT-233905,"I received a suspicious phishing email
+",Security Issue,71.78%,High,Open,2026-09-07 23:39:05
